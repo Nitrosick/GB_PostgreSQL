@@ -1,1 +1,1 @@
-# GB_PostgreSQL
+# GB_PostgreSQL course project
